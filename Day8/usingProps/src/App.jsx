@@ -40,8 +40,7 @@ const App = () => {
     <>
      <div className='flex justify-center'>
         <StudentCard name={Name} age={Age} course={Course} status={isStatus} />
-        <ProfileCard Details={obj}/>
-        
+        <ProfileCard Details={obj}/>  
      </div>
      <p className='text-center'>Task3</p>
      <StudentList List={students}/>
