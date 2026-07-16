@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
    <>
    <div className='p-10 bg-red-300 flex justify-between items-center'>
-            <div className='mx-10'>
+            <div className='mx-10 '>
                Logo
             </div>
             <div className='mx-10 flex gap-10'>
